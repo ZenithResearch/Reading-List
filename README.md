@@ -25,11 +25,11 @@ subjectTags: {{subjectTags}}
 4. Builder Pattern (https://refactoring.guru/design-patterns/builder)
 
 ## Computer Science Papers
-1. *Yohei Nakajima*, **Task Driven Autonomous Agent uilizing GPT-4 LangChain and pinecone for Diverse Applications** (https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+1. **Yohei Nakajima**, *Task Driven Autonomous Agent uilizing GPT-4 LangChain and pinecone for Diverse Applications* (https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 
 ## Software Frameworks
 ### Python
-1. **Harrison Chase**, *LangChain* (https://python.langchain.com/en/latest/index.html)
+1. *Harrison Chase*, **LangChain** (https://python.langchain.com/en/latest/index.html)
 
 ## Philosophy
 1. *Sun Tzu*, **The Art Of War**
