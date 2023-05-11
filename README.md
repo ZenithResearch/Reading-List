@@ -30,6 +30,7 @@ subjectTags: {{subjectTags}}
 ## Software Frameworks
 ### Python
 1. *Harrison Chase*, **LangChain** (https://python.langchain.com/en/latest/index.html)
+2. HDFS https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html
 
 ## Philosophy
 1. *Sun Tzu*, **The Art Of War**
