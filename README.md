@@ -1,3 +1,6 @@
+# Contents
+1. [List](#List)
+2. [Most Impactful]
 # Reading-List
 Our company wide reading list. Books, articles, journals, documentaries, and podcasts that have helped our team grow!
 
@@ -41,3 +44,4 @@ subjectTags: {{subjectTags}}
 
 ## Economics
 1. *Gregory Clark*, **A Farewell To Alms: A Breif Economic history of the World**
+
