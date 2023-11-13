@@ -21,6 +21,10 @@ subjectTags: {{subjectTags}}
 ```
 
 # List
+
+## Open-Source
+1. *Karl Fogel* **Producing Open Source Software** (https://producingoss.com/en/index.html)
+
 ## Design Patterns
 1. State Patern (https://refactoring.guru/design-patterns/state)
 2. Factory Method Pattern (https://refactoring.guru/design-patterns/factory-method)
